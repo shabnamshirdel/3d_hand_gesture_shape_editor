@@ -1,21 +1,21 @@
-### 3D Hand Gesture Editor
+### 3D Hand Gesture Shape Editor
 
-![3D hand gesture editor screenshot](./3d_hand_gesture_editor.png)
+![3D hand gesture shape editor screenshot](./3d_hand_gesture_shape_editor.png)
 
-Edit 3D shapes with natural hand gestures.
+A ```threejs``` / ```WebGL``` / ```MediaPipe```-powered interactive web-application that allows user to edit 3D shapes with natural hand gestures.
 
+
+### Gestures
 * Right hand: "Pinch" to grab/move a corner of the cube.
 * Right hand: "Pinch" and drag in the color wheel.
 * left hand: Make a "fist" and move to rotate the shape.
-
-Built with `threejs` / `WebGL` / `MediaPipe`.
 
 
 ### Setup for Development
 
 Navigate to the project sub-folder in terminal:
 ```bash
-cd 3d_hand_gesture_editor
+cd 3d_hand_gesture_shape_editor
 ```
 
 In the terminal, type below command:
