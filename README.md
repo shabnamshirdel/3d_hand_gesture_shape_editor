@@ -8,7 +8,7 @@ A ```threejs``` / ```WebGL``` / ```MediaPipe```-powered interactive web-applicat
 ### Gestures
 * Right hand: "Pinch" to grab/move a corner of the cube.
 * Right hand: "Pinch" and drag in the color wheel.
-* left hand: Make a "fist" and move to rotate the shape.
+* Left hand: Make a "fist" and move to rotate the shape.
 
 
 ### Setup for Development
