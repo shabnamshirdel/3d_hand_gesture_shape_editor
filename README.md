@@ -39,3 +39,6 @@ Note: Please clear your browser cache before entering the address.
 - **MediaPipe** for hand tracking and gesture recognition
 - **HTML5 Canvas** for visual feedback
 - **JavaScript** for real-time interaction
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
